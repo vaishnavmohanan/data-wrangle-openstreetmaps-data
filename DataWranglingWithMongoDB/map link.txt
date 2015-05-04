@@ -1,0 +1,19 @@
+Link :
+https://s3.amazonaws.com/metro-extracts.mapzen.com/charlotte_north-carolina.osm.bz2
+
+
+Charlotte is the largest city in the U.S. state of North Carolina, the second largest city in the Southeastern 
+United States, just behind Jacksonville, Florida, and the third fastest-growing major city in the United States.
+
+I preferred taking my hometown (Kannur, Kerala, India) to wrangle with. But it seemed too small (less than 50 MB) to 
+analyse. So my brother who is settled in Charlotte, North Carolina, suggested me to take this. I would most probably be 
+doing my Masters there soon. So he said it’s good to be familiarised with this place.
+
+PS: in order to upload the sample osm file I had to change the code slightly. My osm file is 511 MB. Using the given code
+I could shrink to only around 50 MB. Since the requirement was 1-10 MB I had to slightly modify it. I changed it to:
+
+for i, element in enumerate(get_element(OSM_FILE)):
+        if i % 50 == 0:
+            output.write(ET.tostring(element, encoding='utf-8'))
+
+    output.write('</osm>')
