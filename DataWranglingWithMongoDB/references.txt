@@ -1,0 +1,27 @@
+Reference Links:
+Udacity class discussion forum
+http://docs.mongodb.org/v2.2/reference/mongorestore/#cmdoption--collection
+http://docs.mongodb.org/manual/#getting-started
+http://docs.mongodb.org/manual/reference/program/mongoimport/
+http://api.mongodb.org/python/current/api/pymongo/database.html?_ga=1.203055634.2083975246.1430027039#pymongo.database.Database
+http://docs.mongodb.org/getting-started/python/client/
+http://docs.mongodb.org/getting-started/shell/
+http://docs.mongodb.org/manual/reference/method/db.collection.aggregate/#db.collection.aggregate
+http://docs.mongodb.org/manual/reference/operator/query/
+http://api.mongodb.org/python/current/installation.html
+http://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/
+https://wiki.openstreetmap.org/wiki/OSM_XML
+http://stackoverflow.com/questions/16344709/how-to-open-a-file-from-the-command-line-with-a-specified-program
+http://learnosm.org/en/osm-data/osm2pgsql/
+http://stackoverflow.com/questions/15837529/junk-after-document-element-line-13-column-2
+http://p2p.wrox.com/xslt/78585-getting-error-xml-parsing-error-junk-after-document-element.html
+http://stackoverflow.com/questions/2574894/python-sax-error-junk-after-document-element
+http://docs.mongodb.org/manual/reference/operator/aggregation/project/#pipe._S_project
+http://docs.mongodb.org/manual/reference/operator/aggregation/group/
+https://docs.python.org/2/library/csv.html
+http://www.crummy.com/software/BeautifulSoup/bs4/doc/
+http://www.w3schools.com/xml/xml_whatis.asp
+http://www.tizag.com/xmlTutorial/index.php
+https://docs.python.org/2/library/csv.html
+https://docs.python.org/2/tutorial/inputoutput.html
+http://www.w3schools.com/json/
